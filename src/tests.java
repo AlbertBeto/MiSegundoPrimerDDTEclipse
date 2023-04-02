@@ -10,8 +10,9 @@ class tests {
 	}
 
 	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
+    public void test_crear_coche(){
+        Coche nuevoCoche = new Coche();
+        
+    }
 
 }
